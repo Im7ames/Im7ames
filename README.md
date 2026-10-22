@@ -6,4 +6,3 @@
 enthusiast**. Here you'll find a collection of my **projects**, my **skills**,
 and more.
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,react,python,java,cpp,html,css)](#)
